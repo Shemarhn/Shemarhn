@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 380" role="img" aria-labelledby="title desc">
+  <title id="title">Shemar Marks — Freelance infrastructure services</title>
+  <desc id="desc">AWS, Linux and Terraform. Build, observe, recover. Navy and teal infrastructure line illustration.</desc>
+  <rect width="1400" height="380" fill="#102E38"/>
+  <path d="M920 0v380M1020 0v380M1120 0v380M1220 0v380M1320 0v380M870 80h530M870 180h530M870 280h530" stroke="#24434C" stroke-width="1"/>
+  <path d="M840 300h140V180h145V90h175M980 180h145v100h175" stroke="#40C9BC" stroke-width="4" fill="none"/>
+  <g fill="#102E38" stroke="#40C9BC" stroke-width="3"><circle cx="980" cy="300" r="9"/><circle cx="980" cy="180" r="9"/><circle cx="1125" cy="180" r="9"/><circle cx="1125" cy="90" r="9"/><circle cx="1300" cy="90" r="9"/><circle cx="1300" cy="280" r="9"/></g>
+  <rect x="55" y="55" width="48" height="5" fill="#40C9BC"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="55" y="98" fill="#9BDDD5" font-size="22" letter-spacing="4">FREELANCE INFRASTRUCTURE SERVICES</text>
+    <text x="52" y="184" fill="#FFFFFF" font-size="72" font-weight="700">Shemar Marks</text>
+    <text x="55" y="242" fill="#D8E8EA" font-size="32">Infrastructure you can rebuild.</text>
+    <text x="55" y="323" fill="#9BDDD5" font-size="22" letter-spacing="2">AWS  /  LINUX  /  TERRAFORM</text>
+    <text x="1160" y="62" fill="#9BDDD5" font-size="17" letter-spacing="2">BUILD</text>
+    <text x="1160" y="158" fill="#9BDDD5" font-size="17" letter-spacing="2">OBSERVE</text>
+    <text x="1160" y="330" fill="#9BDDD5" font-size="17" letter-spacing="2">RECOVER</text>
+  </g>
+</svg>
