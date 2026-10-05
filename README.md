@@ -10,7 +10,7 @@ I'm **Shemar Marks**. I offer freelance help with AWS deployments, Linux systems
 
 My focus is practical: understand the workload, make the setup repeatable, test the recovery path and leave clear documentation.
 
-**[Portfolio](https://shemar-marks.yummy-coot-4068.chatgpt.site)** · **[LinkedIn](https://www.linkedin.com/in/shemar-marks-11ba4820b/)** · **[Project enquiries](mailto:shemarmarks.tech@gmail.com)**
+**[Portfolio](https://shemar-marks.marks-shemarhn.chatgpt.site)** · **[LinkedIn](https://www.linkedin.com/in/shemar-marks-11ba4820b/)** · **[Project enquiries](mailto:shemarmarks.tech@gmail.com)**
 
 <br clear="both" />
 
@@ -56,4 +56,4 @@ This was a lab exercise with synthetic data. The recorded recovery time is a sin
 
 Tell me what you're running, what needs to change and how you want to measure success. We can define the scope and the handover from there.
 
-**[shemarmarks.tech@gmail.com](mailto:shemarmarks.tech@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/shemar-marks-11ba4820b/)** · **[Portfolio & case studies](https://shemar-marks.yummy-coot-4068.chatgpt.site)**
+**[shemarmarks.tech@gmail.com](mailto:shemarmarks.tech@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/shemar-marks-11ba4820b/)** · **[Portfolio & case studies](https://shemar-marks.marks-shemarhn.chatgpt.site)**
