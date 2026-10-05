@@ -2,8 +2,6 @@
   <img src="assets/banner.svg" width="100%" alt="Shemar Marks — Freelance infrastructure services. Infrastructure you can rebuild. AWS, Linux and Terraform." />
 </p>
 
-<img align="right" src="assets/shemar-marks.png" width="150" alt="Portrait of Shemar Marks" />
-
 ## Infrastructure, with a recovery plan
 
 I'm **Shemar Marks**. I offer freelance help with AWS deployments, Linux systems, infrastructure automation, monitoring and recovery planning.
@@ -11,8 +9,6 @@ I'm **Shemar Marks**. I offer freelance help with AWS deployments, Linux systems
 My focus is practical: understand the workload, make the setup repeatable, test the recovery path and leave clear documentation.
 
 **[Portfolio](https://shemar-marks.marks-shemarhn.chatgpt.site)** · **[LinkedIn](https://www.linkedin.com/in/shemar-marks-11ba4820b/)** · **[Project enquiries](mailto:shemarmarks.tech@gmail.com)**
-
-<br clear="both" />
 
 ### What I can help with
 
