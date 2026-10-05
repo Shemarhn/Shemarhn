@@ -34,7 +34,13 @@ Executed synthetic Ubuntu/WSL2 engagement: assessed a working application host, 
 
 [Case study](https://github.com/Shemarhn/cedarfield-linux-operations/blob/main/docs/CASE-STUDY.md) · [Evidence](https://github.com/Shemarhn/cedarfield-linux-operations/tree/main/evidence) · [Operations runbook](https://github.com/Shemarhn/cedarfield-linux-operations/blob/main/docs/RUNBOOK.md)
 
-Both engagements use synthetic business data. They demonstrate executed lab work, not paid-client delivery or production uptime. Northstar's duration is one observation, not a repeatability guarantee or measured RPO. Cedarfield ran locally in isolated WSL2 namespaces, not on Proxmox; its local backup is not independent disaster recovery.
+**[Harborlight: operations automation & recurring maintenance](https://github.com/Shemarhn/harborlight-operations-automation)**
+
+Executed synthetic Ubuntu engagement: built six repeatable operating checks, verified online backups, an isolated restore drill, incident transitions and a guarded restart workflow. All **15 live acceptance scenarios** and **19 boundary tests** passed. A recovered app served the same five orders; two automatic systemd audits ran. Drift, corrupt backups, overlapping operations and cooldown correctly blocked unsafe actions; final health and rollback passed.
+
+[Case study](https://github.com/Shemarhn/harborlight-operations-automation/blob/main/docs/CASE-STUDY.md) · [Retained evidence](https://github.com/Shemarhn/harborlight-operations-automation/tree/main/evidence) · [Operations runbook](https://github.com/Shemarhn/harborlight-operations-automation/blob/main/docs/RUNBOOK.md)
+
+All three engagements use synthetic business data. They demonstrate executed lab work, not paid-client delivery or production uptime. Northstar's duration is one observation, not a repeatability guarantee or measured RPO. Cedarfield ran locally in isolated WSL2 namespaces, not on Proxmox; its local backup is not independent disaster recovery. Harborlight ran on a disposable free GitHub-hosted runner; local events do not prove external alert delivery or continuous monitoring.
 
 ### Infrastructure tools
 
