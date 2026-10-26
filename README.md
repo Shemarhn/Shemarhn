@@ -4,7 +4,7 @@
 
 I'm **Shemar Marks**. I help small teams deploy and migrate workloads, harden Linux hosts, improve monitoring and test recovery. I verify what changed and leave the system operable with a usable handover.
 
-**[Discuss your infrastructure](mailto:shemarmarks.tech@gmail.com?subject=Infrastructure%20project%20enquiry)** · **[Services & portfolio](https://shemarhn.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/shemar-marks-11ba4820b/)**
+**[Discuss your infrastructure](mailto:hello@shemarmarks.com?subject=Infrastructure%20project%20enquiry)** · **[Services & portfolio](https://shemarmarks.com/)** · **[LinkedIn](https://www.linkedin.com/in/shemar-marks-11ba4820b/)**
 
 ### What you can hire me for
 
@@ -55,4 +55,4 @@ Linux, AWS, Terraform, Proxmox, Bash and Python. Practical work spans deployment
 
 Tell me **what you're running**, **what is not working or needs to change**, and **the outcome you want**. We can define a practical scope, acceptance checks and the handover from there.
 
-**[shemarmarks.tech@gmail.com](mailto:shemarmarks.tech@gmail.com?subject=Infrastructure%20project%20enquiry)** · **[Portfolio](https://shemarhn.github.io/)**
+**[hello@shemarmarks.com](mailto:hello@shemarmarks.com?subject=Infrastructure%20project%20enquiry)** · **[Portfolio](https://shemarmarks.com/)**
